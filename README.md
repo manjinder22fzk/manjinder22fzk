@@ -18,5 +18,6 @@ A major part of my  repositories are focused on the below problems:
  3. AWS Cloud Deployment
  4. Time Series Forecast using ARIMA and Prophet
  5. OCT Detection using Detectron and Tesseract
+ 6. Sentiment Analysis with BERT using HuggingFace
 
  
