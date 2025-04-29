@@ -1,23 +1,38 @@
-# About-Me
-Welcome to my Github Profile .
+# 👋 About Me
+Welcome to my GitHub Profile!
 
-# Manjinder Singh
-I am a seasoned Data Scientist with a proven track record who has worked on several data science problems including Time Series, OCR Text Detection, and Object Detection using CNN and NLP.
+## 👨‍💻 Manjinder Singh
+I am a passionate **Data Engineer** with a strong background in designing, building, and maintaining scalable data pipelines and architectures. My expertise spans across cloud services, real-time and batch data processing, data modeling, and automation.
 
-While building projects, my primary focus is on creating a Production Ready Model. While working on any project, I divide the whole process into 3 processes:
- 1. Research Phase - This is the phase where I analyze, visualize, transform, and extract features from my data in order to come up  with an optimal model along with       all the essential features.
- 2. Packaging Phase - In this phase, I compile all of my analysis done in the research phase and build a CI/CD pipeline that can be dockerized and deployed on the        cloud.
- 3. Deployment Phase - This is the most exciting phase for me. In this phase, I deploy the model on the AWS Cloud and then try the whole flow using completely new      data in order to see if the code breaks or not.
+While working on any project, I follow a **production-ready mindset** and structure my workflow into three key phases:
 
-You will see all of my latest repositories designed in this fashion.
+### 🔹 Design & Development Phase
+- Analyze business requirements.
+- Design efficient data models.
+- Build robust ETL pipelines to handle large-scale structured and semi-structured data.
 
-A major part of my  repositories are focused on the below problems:
+### 🔹 Automation & CI/CD Phase
+- Package solutions with CI/CD pipelines using **GitHub Actions**, **Docker**, and **Terraform**.
+- Ensure seamless deployment and scalability.
 
- 1. Object Detection using Yolo
- 2. Sentiment Analysis using Gensim(NLP Package)
- 3. AWS Cloud Deployment
- 4. Time Series Forecast using ARIMA and Prophet
- 5. OCT Detection using Detectron and Tesseract
- 6. Sentiment Analysis with BERT using HuggingFace
+### 🔹 Deployment & Monitoring Phase
+- Deploy solutions to cloud environments (**AWS**, **Snowflake**).
+- Integrate monitoring to ensure system stability, data quality, and reliability.
+
+---
+
+## 🚀 Key Focus Areas
+- Real-Time Data Streaming with **Kafka** and **Spark**
+- Batch Data Processing with **Apache Spark** and **AWS Glue**
+- Cloud Data Lake Architectures on **AWS** (S3, Redshift, Snowflake)
+- Data Modeling (**Star Schema**, **Snowflake Schema**, **Data Vault**)
+- Workflow Orchestration using **Apache Airflow**
+- Infrastructure Automation using **GitHub Actions**, **Docker**, and **Terraform**
+- SQL Performance Tuning and Query Optimization
+
+---
+
+🔗 Feel free to explore my repositories where you will find end-to-end Data Engineering projects, designed with production best practices in mind!
+
 
  
