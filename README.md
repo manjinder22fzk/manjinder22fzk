@@ -16,15 +16,15 @@ While working on any project, I follow a **production-ready mindset** and struct
 - Ensure seamless deployment and scalability.
 
 ### 🔹 Deployment & Monitoring Phase
-- Deploy solutions to cloud environments (**AWS**, **Snowflake**).
+- Deploy solutions to cloud environments (**AWS**,**Azure**, **Snowflake**, **Databricks**).
 - Integrate monitoring to ensure system stability, data quality, and reliability.
 
 ---
 
 ## 🚀 Key Focus Areas
 - Real-Time Data Streaming with **Kafka** and **Spark**
-- Batch Data Processing with **Apache Spark** and **AWS Glue**
-- Cloud Data Lake Architectures on **AWS** (S3, Redshift, Snowflake)
+- Batch Data Processing with **Apache Spark** and *Spark Streaming* 
+- Cloud Data Lake Architectures on **AWS** (S3, Redshift, Snowflake) and **Azure** (ADF, Synapse, Databricks)
 - Data Modeling (**Star Schema**, **Snowflake Schema**, **Data Vault**)
 - Workflow Orchestration using **Apache Airflow**
 - Infrastructure Automation using **GitHub Actions**, **Docker**, and **Terraform**
